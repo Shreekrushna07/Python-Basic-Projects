@@ -1,4 +1,6 @@
+
 ---
+
 # Number Guessing Game
 
 This is a simple Number Guessing Game implemented in Python. The game generates a random number between 1 and 100, and the player has to guess the number. The player can choose between two difficulty levels: easy (with 10 attempts) or hard (with 5 attempts).
