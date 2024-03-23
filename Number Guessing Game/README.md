@@ -28,7 +28,7 @@ This is a simple Number Guessing Game implemented in Python. The game generates 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/Shreekrushna07/number-guessing-game.git
    ```
 
 2. Run the game:
