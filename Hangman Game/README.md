@@ -1,7 +1,3 @@
-Here's a README.md file for the provided Hangman game code:
-
----
-
 # Hangman Game
 
 This is a simple Hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player must guess letters in the word. The player starts with 6 lives, losing one for each incorrect guess. The game ends when the player guesses the word correctly or runs out of lives.
