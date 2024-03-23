@@ -26,7 +26,7 @@ This is a simple Hangman game implemented in Python. The game randomly selects a
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Shreekrushna07/Python-Basic-Projects/tree/main/Hangman%20Game
    ```
 
 2. Run the game:
