@@ -1,4 +1,3 @@
-Here's the updated README.md file with the file name corrected to `main.py`:
 
 ---
 
@@ -37,4 +36,3 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game allo
 
 ---
 
-Feel free to modify the game or add features to it!
