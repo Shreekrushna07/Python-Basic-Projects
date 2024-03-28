@@ -7,7 +7,7 @@ This is a simple Number Guessing Game implemented in Python. The game generates 
 
 ## How to Play
 
-1. Run the `number_guessing_game.py` script in a Python environment.
+1. Run the `main.py` script in a Python environment.
 2. You will be asked to choose a difficulty level (easy or hard).
 3. The game will generate a random number between 1 and 100.
 4. You have a limited number of attempts to guess the correct number.
@@ -16,7 +16,7 @@ This is a simple Number Guessing Game implemented in Python. The game generates 
 
 ## Files
 
-- `number_guessing_game.py`: Contains the main game logic.
+- `main.py`: Contains the main game logic.
 - `Art.py`: Contains ASCII art for the game logo.
 
 ## Requirements
@@ -34,7 +34,7 @@ This is a simple Number Guessing Game implemented in Python. The game generates 
 2. Run the game:
 
    ```bash
-   python number_guessing_game.py
+   python main.py
    ```
 
 ---
