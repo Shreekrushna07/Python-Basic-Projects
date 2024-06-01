@@ -29,6 +29,7 @@ Here is a list of the projects included in this repository:
 5. **Password Generator** - A tool to generate strong and random passwords.
 6. **Stone Paper Scissor** - A digital version of the classic game Rock Paper Scissors.
 7. **Tip Calculator** - A program to calculate the tip and total amount for a bill.
+8. **Treasure Island** - A text-based adventure game where players make choices to find the hidden treasure.
 
 ## Installation
 
