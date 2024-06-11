@@ -2,7 +2,7 @@
 
 # Python Basic Projects
 
-Welcome to the Python Basic Projects repository! This repository contains a collection of basic Python projects that demonstrate various programming concepts and techniques.
+Welcome to the Python Basic Projects repository! This repository contains a collection of basic Python projects that demonstrate various programming concepts and techniques. If you like this project, please give it a star!
 
 ## Table of Contents
 
