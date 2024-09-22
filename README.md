@@ -30,6 +30,8 @@ Here is a list of the projects included in this repository:
 6. **Stone Paper Scissor** - A digital version of the classic game Rock Paper Scissors.
 7. **Tip Calculator** - A program to calculate the tip and total amount for a bill.
 8. **Treasure Island** - A text-based adventure game where players make choices to find the hidden treasure.
+9. **Calculator** - A simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division based on user input.
+10. **Random Dot Generator** - A program that generates random dots on a graphical interface (like using Turtle graphics or a GUI library) to create random patterns.
 
 ## Installation
 
